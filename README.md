@@ -111,11 +111,3 @@ Optimisation, and mathematical computation.
 | Database | SQL · ORMs |
 
 ---
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgyy&show_icons=true&hide_border=true&count_private=true)
-
----
-
-📫 Reach me at **jeffrey.goh@sit.singaporetech.edu.sg**
